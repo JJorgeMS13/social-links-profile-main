@@ -80,8 +80,6 @@ body {
     border: none;
     border-radius: 10px;
     padding: 16px 0;
-}
-.btn a {
     color: var(--white);
     font-weight: 700;
     text-decoration: none;
@@ -89,9 +87,6 @@ body {
 .btn--active:hover {
     background-color: var(--green);
     cursor: pointer;
-    color: var(--grey-900);
-}
-.btn--active:hover a {
     color: var(--grey-900);
 }
 /* ----------------Footer-------- */
